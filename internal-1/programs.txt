@@ -1,0 +1,21 @@
+1. st infix to postfix
+2. post fix eval
+
+(3). all Q ops
+
+4. LL insertion
+5. LL del
+6. Double hasing
+7. chaining
+8. Linear Addressing
+9. Skiplist insertion
+10.SL Del
+11.BST-Ins
+12.BST-Del
+13.Search in BST
+14.AVl insert
+15.AVL Del
+16.B-Tree Inser
+17.B-Tree Del
+
+(18).BST Traversals
